@@ -14,8 +14,11 @@ Authors
 @katherinepeterson
 Libraries Used:
 Pandas 
+
 Numpy 
+
 Skikitlearn 
+
 Matplotlib
 
 Algorithms Used:

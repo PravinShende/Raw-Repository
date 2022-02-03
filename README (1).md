@@ -23,8 +23,11 @@ this link helping me to write effectively the readme file with good represention
 ## Libraries Used:
 
 Pandas
+
 Numpy
+
 Skikitlearn
+
 Matplotlib
 
 ## Algorithms Used:
@@ -32,8 +35,11 @@ Matplotlib
 
 KNN 
 Regression Analysis
+
 Dicision Treee
+
 Random Forest
+
 XGBoost 
 
 

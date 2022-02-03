@@ -73,3 +73,34 @@ By using python various packages we predicted the the name of disease on the pla
 1. will take to much time to process the data.
 
 2. Greatly depends on the input size of feed and also dividation into train and test data.
+
+
+
+# title heading 1 
+
+
+_Italic_
+
+
+**strong Bold**
+
+
+Links 
+
+[visit here ]()
+
+
+liks for imges 
+
+![click to seee picture]()
+
+> keep smoling 
+
+
+1.list1
+1.list2
+
+
+-list 
+1.list one 
+2. list two 

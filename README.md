@@ -13,7 +13,10 @@ this link helping me to write effectively the readme file with good represention
 Authors
 @katherinepeterson
 Libraries Used:
-Pandas Numpy Skikitlearn Matplotlib
+Pandas 
+Numpy 
+Skikitlearn 
+Matplotlib
 
 Algorithms Used:
 KNN Regression Analysis Dicision Treee Random Forest

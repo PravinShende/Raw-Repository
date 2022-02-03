@@ -34,6 +34,8 @@ KNN
 Regression Analysis
 Dicision Treee
 Random Forest
+XGBoost 
+
 
 ## Objective of Project:
 

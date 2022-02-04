@@ -111,5 +111,6 @@ Image Uploading using issue tag
 
 ![Uploading Screenshot (8).png…]()
 
-Wait in issue tag till image is uploding.
+## Wait in issue tag till image is uploding.
+
 ![Screenshot (8)](https://user-images.githubusercontent.com/97835685/152474185-d4b79cfa-9b0b-45ce-94a9-28060cafa4bb.png)
